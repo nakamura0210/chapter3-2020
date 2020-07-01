@@ -14,7 +14,7 @@
 
 ### 2. Fork（フォーク）
 1. 「yu-enpit」上に作成されたリポジトリ「課題名-アカウント名」にアクセスします。
-![image3](https://user-images.githubusercontent.com/54967748/86207780-336f7b80-bbaa-11ea-9edf-8bbe2b7422d3.jpeg)
+![image](https://user-images.githubusercontent.com/54967748/86207825-4bdf9600-bbaa-11ea-9b69-e98f520bcf09.png)
 2. 右上の「Fork」ボタンをクリックします。
 ![キャプチャ](app/src/main/res/drawable/image5.jpeg)
 2. 自分のアカウント上に「課題名-アカウント名」のリポジトリが作成されます。
