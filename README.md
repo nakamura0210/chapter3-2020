@@ -9,7 +9,8 @@
 1. メールから招待リンクをコピーします。
 2. ブラウザのアドレスバーに招待リンクを貼り付け、アクセスします。
 3. 組織アカウント「yu-enpit」上にリポジトリ「課題名-アカウント名」が作成されます。
-![キャプチャ](app/src/main/res/drawable/image3.jpeg)
+![githubflow](https://user-images.githubusercontent.com/54967748/86207652-f5725780-bba9-11ea-8296-2579f9f5e6d0.jpg)
+
 
 ### 2. Fork（フォーク）
 1. 「yu-enpit」上に作成されたリポジトリ「課題名-アカウント名」にアクセスします。
